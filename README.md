@@ -52,3 +52,41 @@ that predicts future sales using historical sales data.
 
 \- Arjun Ajudiya
 
+
+
+
+
+\## Project Status
+
+
+
+Project: Future Sales Prediction
+
+
+
+GitHub Repository: 
+
+https://github.com/ArjunAjudiya/Future-sales-prediction
+
+
+
+\## Features
+
+
+
+\- Future Sales Prediction
+
+\- Data Analysis
+
+\- Machine Learning
+
+\- Sales Data Visualization
+
+
+
+\## Author
+
+
+
+Arjun Ajudiya
+
